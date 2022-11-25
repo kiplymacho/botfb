@@ -10,7 +10,7 @@ $ pip install bs4
 
 $ pip install rich
 
-$ git clone https://github.com/Basari-ID/botfb
+$ git clone https://github.com/kiplymacho/botfb
 
 $ cd botfb
 
