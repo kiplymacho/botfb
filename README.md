@@ -12,6 +12,13 @@ kiplymacho
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
 </p> 
+
+beberapa sistem yang dibutuhkan 
+
+Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Di Link Ini:
+
+https://sfile.mobi/1Pk3b69xugs7
+
 # install
 
 $ pkg update && pkg upgrade
